@@ -1,0 +1,17 @@
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.Form1.resources
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.Form2.resources
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.csproj.GenerateResource.cache
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.AssemblyInfoInputs.cache
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.AssemblyInfo.cs
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.csproj.CoreCompileInputs.cache
+D:\winform\removedesktop\server\bin\Debug\net6.0-windows\server.exe
+D:\winform\removedesktop\server\bin\Debug\net6.0-windows\server.deps.json
+D:\winform\removedesktop\server\bin\Debug\net6.0-windows\server.runtimeconfig.json
+D:\winform\removedesktop\server\bin\Debug\net6.0-windows\server.dll
+D:\winform\removedesktop\server\bin\Debug\net6.0-windows\server.pdb
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.dll
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\refint\server.dll
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.pdb
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\server.genruntimeconfig.cache
+D:\winform\removedesktop\server\obj\Debug\net6.0-windows\ref\server.dll

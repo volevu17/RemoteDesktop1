@@ -1,0 +1,16 @@
+D:\winform\removedesktop\client\bin\Debug\net6.0-windows\client.exe
+D:\winform\removedesktop\client\bin\Debug\net6.0-windows\client.deps.json
+D:\winform\removedesktop\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+D:\winform\removedesktop\client\bin\Debug\net6.0-windows\client.dll
+D:\winform\removedesktop\client\bin\Debug\net6.0-windows\client.pdb
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.Form1.resources
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.csproj.GenerateResource.cache
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.AssemblyInfo.cs
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.csproj.CoreCompileInputs.cache
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.dll
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\refint\client.dll
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.pdb
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
+D:\winform\removedesktop\client\obj\Debug\net6.0-windows\ref\client.dll

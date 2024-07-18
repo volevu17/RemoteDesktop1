@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAGSX2yPAKHRYJd/4NKWxBMiR+o2ns89fcPAveGIEasd8IGCPO2ByPjv22KV/5YwlCb6UajN21iLAfjnTjzsIg==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\removedesktop\\removedesktop\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\volev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\volev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\volev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
